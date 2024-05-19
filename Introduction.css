@@ -1,0 +1,12 @@
+#introduction {
+    background-color: #f8f9fa;
+  }
+  
+  #introduction h2 {
+    font-weight: 700;
+    font-size: 2.5rem;
+  }
+  
+  #introduction p.lead {
+    font-size: 1.2rem;
+  }

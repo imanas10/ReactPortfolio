@@ -1,0 +1,11 @@
+#experience h5 {
+    font-weight: 600;
+  }
+  
+  #experience p.font-weight-bold {
+    font-size: 1.1rem;
+  }
+  
+  #experience p.text-muted {
+    font-size: 0.9rem;
+  }
